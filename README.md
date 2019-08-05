@@ -3,8 +3,8 @@
 [![Banner](assets/profile.jpeg)](http://felipetrova.github.io/)
 
 ### Markdown ###
-* [English](https://github.com/felipetrova/cv/blob/master/en.md)
-* [Portuguese](https://github.com/felipetrova/cv/blob/master/pt-br.md)
+* [English](https://github.com/felipetrova/cv/blob/master/dist/cv/felipetrova-en.md)
+* [Portuguese](https://github.com/felipetrova/cv/blob/master/dist/cv/felipetrova.md)
 
 ### PDF ###
 * [English](https://github.com/felipetrova/cv/blob/master/dist/cv/felipetrova-en.pdf)
