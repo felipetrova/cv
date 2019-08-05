@@ -11,10 +11,10 @@
 * [Portuguese](https://github.com/felipetrova/cv/blob/master/dist/cv/mir-cv-pt-br.pdf)
 
 ### Where to find me? ###
-[![Facebook](https://icongr.am/jam/facebook-circle.svg)](https://web.facebook.com/frtrova)
-[![Instagram](https://icongr.am/jam/instagram-circle.svg)](https://www.instagram.com/felipetrova/)
-[![Twitter](https://icongr.am/jam/twitter-circle.svg)](https://twitter.com/felipetrova)
-[![Linkedin](https://icongr.am/jam/linkedin-circle.svg)](https://www.linkedin.com/in/felipetrova/detail/recent-activity/)
-[![Github](https://icongr.am/jam/github-circle.svg)](https://github.com/felipetrova)
-[![Medium](https://icongr.am/jam/medium-circle.svg)](https://medium.com/@felipetrova)
-[![Spotify](https://icongr.am/jam/spotify-circle.svg)](spotify:user:12142514177)
+[![Facebook](https://icongr.am/material/facebook.svg)](https://web.facebook.com/frtrova)
+[![Instagram](https://icongr.am/material/instagram.svg)](https://www.instagram.com/felipetrova/)
+[![Twitter](https://icongr.am/material/twitter.svg)](https://twitter.com/felipetrova)
+[![Linkedin](https://icongr.am/material/linkedin.svg)](https://www.linkedin.com/in/felipetrova/detail/recent-activity/)
+[![Github](https://icongr.am/material/github-circle.svg)](https://github.com/felipetrova)
+[![Medium](https://icongr.am/material/medium.svg)](https://medium.com/@felipetrova)
+[![Spotify](https://icongr.am/material/spotify.svg)](spotify:user:12142514177)
