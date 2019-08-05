@@ -7,8 +7,8 @@
 * [Portuguese](https://github.com/felipetrova/cv/blob/master/pt-br.md)
 
 ### PDF ###
-* [English](https://github.com/felipetrova/cv/blob/master/dist/cv/mir-cv-en.pdf)
-* [Portuguese](https://github.com/felipetrova/cv/blob/master/dist/cv/mir-cv-pt-br.pdf)
+* [English](https://github.com/felipetrova/cv/blob/master/dist/cv/felipetrova-en.pdf)
+* [Portuguese](https://github.com/felipetrova/cv/blob/master/dist/cv/felipetrova.pdf)
 
 ### Where to find me? ###
 [![Facebook](https://icongr.am/material/facebook.svg)](https://web.facebook.com/frtrova)
