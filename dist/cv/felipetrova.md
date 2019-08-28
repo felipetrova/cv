@@ -1,4 +1,4 @@
-# | Felipe Trova [![brand](../../assets/profile.jpeg)](http://felipetrova.github.io/) #
+# | Felipe Trova [Blog](http://felipetrova.github.io/) #
 [Indaiatuba | SP | Brasil](https://goo.gl/maps/TMGJSgDYEVCoyBtG6)
 
 ### Contatos ### 
