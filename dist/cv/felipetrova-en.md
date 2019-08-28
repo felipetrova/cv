@@ -1,13 +1,13 @@
 # | Felipe Trova [![brand](../../assets/profile.jpeg)](http://felipetrova.github.io/) #
 [Indaiatuba | SP | Brazil](https://goo.gl/maps/TMGJSgDYEVCoyBtG6)
 
-### Contatos ### 
+### Contacts ### 
 * `+ 55 19 9 9291-6226`
 * felipee.trova@gmail.com 
 * [Linkedin](https://www.linkedin.com/in/felipetrova/)
 * [Github](https://github.com/felipetrova)
 
-### Objetivo ###
+### Goal ###
 * Front-End Developer
 
 ### Interpersonal Skills ###
