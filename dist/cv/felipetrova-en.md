@@ -1,4 +1,4 @@
-# | Felipe Trova [Blog](http://felipetrova.github.io/) #
+# | Felipe Trova | [Blog](http://felipetrova.github.io/) #
 [Indaiatuba | SP | Brazil](https://goo.gl/maps/TMGJSgDYEVCoyBtG6)
 
 ### Contacts ### 
