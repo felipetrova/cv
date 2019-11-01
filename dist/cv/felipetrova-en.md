@@ -29,6 +29,7 @@
 ### Languages ### 
 * Portuguese - Fluent/Native
 * English - Basic/Technical
+* Spanish - Basic
 
 ### Software ###
 * **IDE:** VSCode, SublimeText, PhpStorm
@@ -61,7 +62,7 @@
 **Starcorp**
 * **Front-End Developer**
 * Feb/2018 - Currently
-> Development and maintenance of platforms for [Linio](http://www.linio.com), such as marketing tools, creation and generation for lots of discount coupons / vouchers, online store.
+> Development and maintenance of platforms for [Linio](http://www.linio.com), such as marketing tools, creation and generation for lots of discount coupons / vouchers, e-commerce, feed generation systems for customers and sellers within e-commerce, among other projects carried out within different teams.
 
 **Felipe Trova - Freelancer**
 * **Front-End Developer**
@@ -92,6 +93,7 @@ FrontEnd developer, developing web sites following Tableless W3C standards: HTML
 * Howto - HTML5 and CSS3 web interfaces (December 2013 12 hour workload)
 
 ### Events ###
+* Linio Summit 2019 - September 2019 (Event held in Mexico - Linio Headquarters) - [Linio Summit](https://summit.linio.com)
 * Linio Summit 2018 - July 2018 (Event held in Mexico - Linio Headquarters)
 * Front in Campinas 2018 - May 2018
 * W3C WEB.BR Conference 2014 - September 2014
