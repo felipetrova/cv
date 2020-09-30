@@ -15,6 +15,5 @@
 [![Instagram](https://icongr.am/material/instagram.svg)](https://www.instagram.com/felipetrova/)
 [![Twitter](https://icongr.am/material/twitter.svg)](https://twitter.com/felipetrova)
 [![Linkedin](https://icongr.am/material/linkedin.svg)](https://www.linkedin.com/in/felipetrova/detail/recent-activity/)
-[![Github](https://icongr.am/material/github-circle.svg)](https://github.com/felipetrova)
-[![Medium](https://icongr.am/material/medium.svg)](https://medium.com/@felipetrova)
+[![Github](https://icongr.am/material/github.svg)](https://github.com/felipetrova)
 [![Spotify](https://icongr.am/material/spotify.svg)](spotify:user:12142514177)
