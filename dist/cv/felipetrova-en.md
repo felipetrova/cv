@@ -38,7 +38,7 @@
 * **Adobe:** Photoshop, Ilustrator
 * **CMS:** Wordpress
 * **Frameworks:** Bootstrap, Bulma, Foundation
-* **Automation:** Grunt, Gulp, Webpack (under development)
+* **Automation:** Grunt, Gulp, Webpack
 
 ### Technologies ###
 * HTML5
@@ -47,7 +47,7 @@
 * Javascript
 * PHP / MySQL
 * AngularJS, Angular(>2.x)
-* ReactJS (under development)
+* ReactJS (Redux, Redux Saga, Styled Components)
 
 ### Agile Workflow Experiences ### 
 * Scrum
@@ -59,10 +59,15 @@
 ### } ###
 
 ### Professional experience ###
+**Stoom**
+* **Front-End Developer**
+* Jan/2020 - Currently
+> Development and maintenance of applications and features for the client [Petz](https://www.petz.com.br/), as well as the development of the new subscriber portal for the client, refactoring the entire system and working with mobile-first and components with React. Most used technologies: HTML5, CSS3, Sass, JavaScript, VueJS, ReactJS, Styled Components, Java.
+
 **Starcorp**
 * **Front-End Developer**
-* Feb/2018 - Currently
-> Development and maintenance of platforms for [Linio](http://www.linio.com), such as marketing tools, creation and generation for lots of discount coupons / vouchers, e-commerce, feed generation systems for customers and sellers within e-commerce, among other projects carried out within different teams.
+* Feb/2018 - Jan/2020
+> Development and maintenance of platforms for [Linio](http://www.linio.com), such as marketing tools, creation and generation for lots of discount coupons / vouchers, e-commerce, feed generation systems for customers and sellers within e-commerce, among other projects carried out within different teams. Most used technologies: HTML5, CSS3, SaSS, JavaScript, AngularJS, Angular +2, VueJS, ReactJS, PHP, Symfony, MySQL, Redis.
 
 **Felipe Trova - Freelancer**
 * **Front-End Developer**
