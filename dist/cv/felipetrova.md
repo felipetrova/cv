@@ -59,9 +59,14 @@
 ### } ###
 
 ### Experiência Profissional ###
+**Arena 22**
+* **Desenvolvedor Front-end Pleno**
+* Abr/2021 - Atualmente
+> Desenvolvimento e manutenção das aplicações e funcionalidades, bem como o desenvolvimento da nova feature para Agentes de Jogadores, trabalhando com mobile-first e React Components. Tecnologias mais utilizadas: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Styled Components.
+
 **Stoom**
 * **Desenvolvedor Front-end Pleno**
-* Jan/2020 - Atualmente
+* Jan/2020 - Abr/2021
 > Desenvolvimento e manutenção das aplicações e funcionalidades para o cliente [Petz](https://www.petz.com.br/), bem como o desenvolvimento do novo portal de assinantes para o cliente, refatorando todo o sistema e trabalhando com mobile-first e componentes com React. Tecnologias mais utilizadas: HTML5, CSS3, Sass, JavaScript, VueJS, ReactJS, Styled Components, Java.
 
 **Starcorp**
