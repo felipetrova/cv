@@ -59,9 +59,14 @@
 ### } ###
 
 ### Professional experience ###
+**Arena 22**
+* **Front-End Developer**
+* Apr/2021 - Currently
+> Development and maintenance of applications and features, as well as the development of a new feature for Player Agents, and also a new version of LandingPage, all customized. Working with mobile-first and React Components. Most used technologies: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Styled Components and Strapi.
+
 **Stoom**
 * **Front-End Developer**
-* Jan/2020 - Currently
+* Jan/2020 - Apr/2021
 > Development and maintenance of applications and features for the client [Petz](https://www.petz.com.br/), as well as the development of the new subscriber portal for the client, refactoring the entire system and working with mobile-first and components with React. Most used technologies: HTML5, CSS3, Sass, JavaScript, VueJS, ReactJS, Styled Components, Java.
 
 **Starcorp**
