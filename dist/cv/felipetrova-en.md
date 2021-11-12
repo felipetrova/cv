@@ -59,9 +59,14 @@
 ### } ###
 
 ### Professional experience ###
+**Onebrain**
+* **Desenvolvedor Front-end Sênior**
+* Set/2021 - Atualmente
+> Development and maintenance of applications and features for the client [iFood](https://www.ifood.com.br/), within the Groceries squad, working with micro frontend within the portal. Most used technologies: HTML5, CSS3, Sass, JavaScript, TypeScript, ReactJS e Styled Components.
+
 **Arena 22**
 * **Front-End Developer**
-* Apr/2021 - Currently
+* Sep/2021 - Currently
 > Development and maintenance of applications and features, as well as the development of a new feature for Player Agents, and also a new version of LandingPage, all customized. Working with mobile-first and React Components. Most used technologies: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Styled Components and Strapi.
 
 **Stoom**
