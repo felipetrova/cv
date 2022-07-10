@@ -48,6 +48,7 @@
 * PHP / MySQL
 * AngularJS, Angular(>2.x)
 * ReactJS (Redux, Redux Saga, Styled Components)
+* GraphQL
 
 ### Agile Workflow Experiences ### 
 * Scrum
@@ -61,12 +62,12 @@
 ### Professional experience ###
 **Onebrain**
 * **Senior Front-End Developer**
-* Set/2021 - Atualmente
-> Development and maintenance of applications and features for the client [iFood](https://www.ifood.com.br/), within the Groceries squad, working with micro frontend within the portal. Most used technologies: HTML5, CSS3, Sass, JavaScript, TypeScript, ReactJS e Styled Components.
+* Sep/2021 - Atualmente
+> Development and maintenance of applications and features for the client [iFood](https://www.ifood.com.br/), within the Groceries squad, working with micro frontend within the portal. Most used technologies: HTML5, CSS3, Sass, JavaScript, TypeScript, ReactJS, Styled Components and GraphQL.
 
 **Arena 22**
 * **Front-End Developer**
-* Sep/2021 - Currently
+* Apr/2021 - Sep/2021
 > Development and maintenance of applications and features, as well as the development of a new feature for Player Agents, and also a new version of LandingPage, all customized. Working with mobile-first and React Components. Most used technologies: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Styled Components and Strapi.
 
 **Stoom**
