@@ -8,7 +8,7 @@
 * [Github](https://github.com/felipetrova)
 
 ### Goal ###
-* Front-End Developer
+* Front-End Developer / Techleader / Software Engineer
 
 ### Interpersonal Skills ###
 * Communicative
