@@ -36,7 +36,7 @@
 * **Versioning:** Git
 * **Package Managers:** Npm, Yarn
 * **Adobe:** Photoshop, Illustrator
-* **CMS:** WordPress
+* **CMS:** WordPress / Strapi
 * **Frameworks:** Bootstrap, Bulma, Foundation
 * **Automation:** Grunt, Gulp, Webpack
 
