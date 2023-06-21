@@ -100,14 +100,14 @@ FrontEnd developer, developing websites following Tableless W3C standards: HTML,
 **Ampla Educação / IOB Concursos**
 * **Front-End Developer**
 * Ago/2014 - Fev/2016
-> Development of ecommerce's portals, for sales of classes and courses for public tenders. VLE development, where students and teachers exchanged information, video lessons environment, exercises and assessments by students. Financial system, for payments, discharge, installments and discounts on debts and values of courses obtained by students / users. Platform with monthly access exceeding 10,000 users.
+> Development of e-commerce portals, for sales of classes and courses for public tenders. VLE development, where students and teachers exchanged information, video lessons environment, exercises, and assessments by students. Financial system, for payments, discharge, installments, and discounts on debts and values of courses obtained by students/users. Platform with monthly access exceeding 10,000 users.
 
 ### Improvement courses ###
 * SENAC - Javascript and Jquery - Fundamentals and Libraries (August 2014 40-hour workload)
-* Howto - Responsive Web Design (April 2014 8 Hour Workload)
+* Howto - Responsive Web Design (April 2014 8-Hour Workload)
 * Howto - Starting with JavaScript (January 2014 15 Hours Hours)
-* Howto - CSS Architecture (February 2014 8 Hour Workload)
-* Howto - HTML5 and CSS3 web interfaces (December 2013 12 hour workload)
+* Howto - CSS Architecture (February 2014 8-Hour Workload)
+* Howto - HTML5 and CSS3 web interfaces (December 2013 12-hour workload)
 
 ### Events ###
 * Linio Summit 2019 - September 2019 (Event held in Mexico - Linio Headquarters) - [Linio Summit](https://summit.linio.com)
