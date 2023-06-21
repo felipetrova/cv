@@ -28,7 +28,7 @@
 
 ### Languages ### 
 * Portuguese - Fluent/Native
-* English - Basic/Technical
+* English - Intermediary/Technical
 * Spanish - Basic
 
 ### Software ###
@@ -55,7 +55,7 @@
 
 ### Academic Education ###
 **Universidade Anhanguera Educacional**
-* **Bachelor of Computer Science**
+* **Bachelor an Computer Science**
 * Ago/2013 - finished
 ### } ###
 
