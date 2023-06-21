@@ -28,24 +28,25 @@
 
 ### Languages ### 
 * Portuguese - Fluent/Native
-* English - Intermediary/Technical
+* English - Intermediate/Technical
 * Spanish - Basic
 
 ### Software ###
 * **IDE:** VSCode, SublimeText, PhpStorm
 * **Versioning:** Git
 * **Package Managers:** Npm, Yarn
-* **Adobe:** Photoshop, Ilustrator
-* **CMS:** Wordpress
+* **Adobe:** Photoshop, Illustrator
+* **CMS:** WordPress
 * **Frameworks:** Bootstrap, Bulma, Foundation
 * **Automation:** Grunt, Gulp, Webpack
 
 ### Technologies ###
 * HTML5
 * CSS3
-* Prepocessors: Sass / Less / Stylus
+* Preprocessor: Sass / Less / Stylus
 * Javascript
-* PHP / MySQL
+* PHP
+* MySQL / MongoDB / PostgreSQL
 * AngularJS, Angular(>2.x)
 * ReactJS (Redux, Redux Saga, Styled Components)
 * GraphQL
@@ -53,9 +54,9 @@
 ### Agile Workflow Experiences ### 
 * Scrum
 
-### Academic Education ###
+### Education ###
 **Universidade Anhanguera Educacional**
-* **Bachelor an Computer Science**
+* **Bachelor in Computer Science**
 * Ago/2013 - finished
 ### } ###
 
@@ -63,12 +64,12 @@
 **Onebrain**
 * **Senior Front-End Developer**
 * Sep/2021 - Currently
-> Development and maintenance of applications and features for the client [iFood](https://www.ifood.com.br/), within the Groceries squad, working with micro frontend within the portal. Most used technologies: HTML5, CSS3, Sass, JavaScript, TypeScript, ReactJS, Styled Components and GraphQL.
+> Development and maintenance of applications and features for the client [iFood](https://www.ifood.com.br/), within the Groceries squad, working with micro frontend within the portal. Most used technologies: HTML5, CSS3, Sass, JavaScript, TypeScript, ReactJS, Styled Components, and GraphQL.
 
-**Arena 22**
+**[Arena 22](https://arena22.com.br/)**
 * **Front-End Developer**
 * Apr/2021 - Sep/2021
-> Development and maintenance of applications and features, as well as the development of a new feature for Player Agents, and also a new version of LandingPage, all customized. Working with mobile-first and React Components. Most used technologies: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Styled Components and Strapi.
+> Development and maintenance of applications and features, as well as the development of a new feature for Player Agents, and also a new version of LandingPage, all customized. Working with mobile-first and React Components. Most used technologies: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Styled Components, and Strapi.
 
 **Stoom**
 * **Front-End Developer**
@@ -78,13 +79,13 @@
 **Starcorp**
 * **Front-End Developer**
 * Feb/2018 - Jan/2020
-> Development and maintenance of platforms for [Linio](http://www.linio.com), such as marketing tools, creation and generation for lots of discount coupons / vouchers, e-commerce, feed generation systems for customers and sellers within e-commerce, among other projects carried out within different teams. Most used technologies: HTML5, CSS3, SaSS, JavaScript, AngularJS, Angular +2, VueJS, ReactJS, PHP, Symfony, MySQL, Redis.
+> Development and maintenance of platforms for [Linio](http://www.linio.com), such as marketing tools, creation and generation for lots of discount coupons/vouchers, e-commerce, and feed generation systems for customers and sellers within e-commerce, among other projects carried out within different teams. Most used technologies: HTML5, CSS3, SaSS, JavaScript, AngularJS, Angular +2, VueJS, ReactJS, PHP, Symfony, MySQL, Redis.
 
 **Felipe Trova - Freelancer**
 * **Front-End Developer**
 * Jan/2011 - Currently
 > Expertise in Agencies: Sawi, Strategy1, Four Advertising, MaPa and Freelancer.
-FrontEnd developer, developing web sites following Tableless W3C standards: HTML, CSS and JavaScript/jQuery. SQL queries in My-SQL database; maintenance of legacy systems.
+FrontEnd developer, developing websites following Tableless W3C standards: HTML, CSS, and JavaScript/jQuery. SQL queries in My-SQL database; maintenance of legacy systems.
 
 **PerformaIT**
 * **Front-End Developer**
@@ -94,7 +95,7 @@ FrontEnd developer, developing web sites following Tableless W3C standards: HTML
 **LuxFacta**
 * **Front-End Developer**
 * Fev/2016 - Abr/2017
-> Development of platforms for the company Ambev. Generation of alerts, calculations and reports on utilization and capacity of equipment and infrastructure used for beverage manufacturing. Creation of interface and system iteration for work-flow, for work teams, where each user would have a certain activity and they should be approved / disapproved by supervisors. Interface development for systems and general maintenance on various systems.
+> Development of platforms for the company Ambev. Generation of alerts, calculations, and reports on utilization and capacity of equipment and infrastructure used for beverage manufacturing. Creation of interface and system iteration for workflow, for work teams, where each user would have a certain activity and they should be approved/disapproved by supervisors. Interface development for systems and general maintenance on various systems.
 
 **Ampla Educação / IOB Concursos**
 * **Front-End Developer**
