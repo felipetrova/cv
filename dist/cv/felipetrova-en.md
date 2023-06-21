@@ -12,9 +12,9 @@
 
 ### Interpersonal Skills ###
 * Communicative
-* Curious
+* Adaptability
 * Enthusiastic
-* Critical sense
+* Problem-solving
 * Empathic
 
 ### Technical Abilities ###
