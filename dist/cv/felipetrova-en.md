@@ -23,8 +23,8 @@
 * Interface development using HTML5, CSS3 and JS
 * Web accessibility
 * Integration and versioning with Git
-* Remote repositories: Github and Bitbucket
-* UI/UX (under development)
+* Remote repositories: Github, GitLab, and Bitbucket
+* UI/UX (currently developing)
 
 ### Languages ### 
 * Portuguese - Fluent/Native
