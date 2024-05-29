@@ -8,7 +8,7 @@
 * [Github](https://github.com/felipetrova)
 
 ### Objetivo ###
-* Desenvolvedor Front-end
+* Frontend engineer
 
 ### Habilidades Interpessoais ###
 * Comunicativo 
@@ -28,26 +28,27 @@
 
 ### Idiomas ### 
 * Português - Fluente/Nativo
-* Inglês - Básico/Técnico
+* Inglês - Intermediário/Técnico
 * Espanhol - Básico
 
 ### Software ###
 * **IDE:** VSCode, SublimeText, PhpStorm
-* **Versionamento:** Git
+* **Versionamento:** Git, GitLab, Bitbucket
 * **Gerenciadores de pacotes:** Npm, Yarn
-* **Adobe:** Photoshop, Ilustrator
-* **CMS:** Wordpress
+* **Adobe:** Photoshop, Illustrator
+* **CMS:** WordPress, Strapi
 * **Frameworks:** Bootstrap, Bulma, Foundation
 * **Automatização:** Grunt, Gulp, Webpack
+* **Testes:** Jest, RTL, Jasmine
 
 ### Tecnologias ###
 * HTML5
 * CSS3
-* Prepocessors: Sass / Less / Stylus
+* Preprocessors: Sass / Less / Stylus
 * Javascript
 * PHP / MySQL
 * AngularJS, Angular(>2.x)
-* ReactJS (Redux, Redux Saga, Styled Components)
+* ReactJS (Redux, Context API, Styled Components)
 
 ### Experiências com fluxo de trabalho ágil ### 
 * Scrum
@@ -56,13 +57,14 @@
 **Universidade Anhanguera Educacional**
 * **Bacharel em Ciência da Computação**
 * Ago/2013 - concluído
+
 ### } ###
 
 ### Experiência Profissional ###
 **Onebrain**
 * **Desenvolvedor Front-end Sênior**
 * Set/2021 - Atualmente
-> Desenvolvimento e manutenção das aplicações e funcionalidades para o cliente [iFood](https://www.ifood.com.br/), dentro do squad de Groceries, trabalhando com micro frontend dentro do portal. Tecnologias mais utilizadas: HTML5, CSS3, Sass, JavaScript, TypeScript, ReactJS e Styled Components.
+> Desenvolvimento e manutenção das aplicações e funcionalidades para o cliente [iFood](https://www.ifood.com.br/), dentro do squad de Groceries, trabalhando com alguns "micros frontends" dentro do portal. Atualmente, estou focado no MF voltado para Promotions. Tecnologias mais utilizadas: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Styled Components, Jest e RTL.
 
 **Arena 22**
 * **Desenvolvedor Front-end Pleno**
