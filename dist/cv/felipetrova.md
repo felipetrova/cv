@@ -40,6 +40,7 @@
 * **Frameworks:** Bootstrap, Bulma, Foundation
 * **Automatização:** Grunt, Gulp, Webpack
 * **Testes:** Jest, RTL, Jasmine
+* **Outros:** Figma, Metabase
 
 ### Tecnologias ###
 * HTML5
